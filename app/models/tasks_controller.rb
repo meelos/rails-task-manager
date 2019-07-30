@@ -1,2 +1,0 @@
-class TasksController < ApplicationRecord
-end
